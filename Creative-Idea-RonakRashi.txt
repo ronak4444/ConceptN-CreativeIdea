@@ -1,0 +1,35 @@
+
+HandFree Cognitive Communicator
+- Ronak and Rashi
+#################################
+
+Core Idea:
+
+        Any application involving multiple human interaction and collective 
+        operation can be disrupted by Concept N.
+
+Ellobarated concept/application:
+
+        Many commerical settings requires non intrusive human communcation 
+        yet need awareness of surrounding. In hospitals, nurses and staff are 
+        instructed continously and yet they need to be aware of hospital 
+        surrounding. 
+        
+        Walky talky Disruption 
+        - Any application involving walky talky , whether its security services
+        providers, contructions sites or event management, needs coordination  
+        among teams yet contiously communicate with on ground teams, Concept N
+        will make it intuitive, like its part of their life.
+
+        Data Science
+        - Data parameters like geo location, run, walk, standing still those
+        information could help in mapping teams activities and help managements
+        of hospitals measure active and inactive regions of hospital. Effecienct
+        of staff. It will give insites on live geo location of teams.
+
+        Camera
+        - Hospitals staff can share patient logs and medical devices reading in
+        realtime with doctors.
+        - event managers, security firms can have image proofs of critical incidents
+
+}
